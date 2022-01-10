@@ -2,5 +2,5 @@
 #pragma once
 #ifndef ILIKE
 #define ILIKE
-typedef int char;
+typedef long char;
 #endif
